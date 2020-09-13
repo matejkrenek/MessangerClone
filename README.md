@@ -1,4 +1,4 @@
-<a href="#"><h1>https://messenger-clone-f5763.web.app/</h1></a>
+<a href="#" target="_blank"><h1>https://messenger-clone-f5763.web.app/</h1></a>
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
